@@ -1,140 +1,140 @@
 h1 {
-    color:aqua;
-    background:red;
+    color:pink;
+   background:gray;
     padding: 5px;
     margin: 15px;
     font: serif;
 }
 h2{
-      color:aqua;
-    background:red;
+      color:palevioletred;
+   background:gray;
     padding: 5px;
     margin: 15px;
     font: serif;
 }
 header{
-   color:aqua;
-    background:red;
+   color:red;
+   background:forestgreen;
     padding: 5px;
     margin: 15px;
     font: serif;
 }
 section {
-   color:aqua;
-    background:red;
+   color:cyan;
+   background:forestgreen;
     padding: 5px;
     margin: 15px;
     font: serif;
 }
 em {
-      color:aqua;
-    background:red;
+      color:whitesmoke;
+   background:gray;
     padding: 5px;
     margin: 15px;
     font: serif;
 }
 p {
-       color:aqua;
-    background:red;
+       color:yellowgreen;
+   background:gray;
     padding: 5px;
     margin: 15px;
     font: serif;
 }
 nav {
        color:aqua;
-    background:red;
+   background:gray;
     padding: 5px;
     margin: 15px;
-    font: serif;
+    font: comic;
 }
 ul {
-       color:aqua;
-    background:red;
+       color:green;
+   background:gray;
     padding: 5px;
     margin: 15px;
     font: serif;
 }
 li {
-      color:aqua;
-    background:red;
+      color:goldenrod;
+   background:gray;
     padding: 5px;
     margin: 15px;
     font: serif;
 }
 form{
-   color:aqua;
-    background:red;
+   color:brown;
+   background:forestgreen;
     padding: 5px;
     margin: 15px;
-    font: serif;
+     font: comic;
 }
 label{
-   color:aqua;
-    background:red;
+   color:violet;
+   background:gray;
     padding: 5px;
     margin: 15px;
-    font: serif;
+    font: comic;
 }
 input{
-   color:aqua;
-    background:red;
+   color:black;
+   background:gray;
     padding: 5px;
     margin: 15px;
-    font: serif;
+     font: comic;
 }
 option{
-   color:aqua;
-    background:red;
+   color:gainsboro;
+   background:gray;
     padding: 5px;
     margin: 15px;
-    font: serif;
+      font: comic;
 }
 .games{
-   color:aqua;
-    background:red;
+   color:plum;
+     background:gray;
     padding: 5px;
     margin: 15px;
     font: serif;
 }
 .dogs{
-   color:aqua;
-    background:red;
+   color:bisque;
+     background:gray;
     padding: 5px;
     margin: 15px;
     font: serif;
 }
 .bio{
-   color:aqua;
-    background:red;
+   color:coral;
+    background:gray;
     padding: 5px;
     margin: 15px;
     font: serif;
 }
 .wacky{
-   color:aqua;
-    background:red;
+   color:hotpink;
+     background:gray;
     padding: 5px;
     margin: 15px;
-    font: serif;
+     font: comic;
 }
 #main{
-   color:aqua;
-    background:red;
+   color:lawngreen;
+    background:gray;
     padding: 5px;
     margin: 15px;
-    font: serif;
+    font: comic;
 }
 #talk{
-   color:aqua;
-    background:red;
+   color:aquamarine;
+    background:gray;
     padding: 5px;
     margin: 15px;
-    font: serif;
+  font: comic;
 }
 #me{
-   color:aqua;
-    background:red;
+   color:blue;
+    background:gray;
     padding: 5px;
     margin: 15px;
-    font: serif;
+    font: comic;
 }
