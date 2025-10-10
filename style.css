@@ -2,23 +2,139 @@ h1 {
     color:aqua;
     background:red;
     padding: 5px;
-    margin: 30px;
+    margin: 15px;
+    font: serif;
+}
+h2{
+      color:aqua;
+    background:red;
+    padding: 5px;
+    margin: 15px;
+    font: serif;
+}
+header{
+   color:aqua;
+    background:red;
+    padding: 5px;
+    margin: 15px;
+    font: serif;
 }
 section {
-    color:aqua
+   color:aqua;
+    background:red;
+    padding: 5px;
+    margin: 15px;
+    font: serif;
 }
 em {
-    color:aqua
+      color:aqua;
+    background:red;
+    padding: 5px;
+    margin: 15px;
+    font: serif;
 }
 p {
-    color:aqua
+       color:aqua;
+    background:red;
+    padding: 5px;
+    margin: 15px;
+    font: serif;
 }
 nav {
-    color:aqua
+       color:aqua;
+    background:red;
+    padding: 5px;
+    margin: 15px;
+    font: serif;
 }
 ul {
-    color:aqua
+       color:aqua;
+    background:red;
+    padding: 5px;
+    margin: 15px;
+    font: serif;
 }
 li {
-    color:aqua
+      color:aqua;
+    background:red;
+    padding: 5px;
+    margin: 15px;
+    font: serif;
+}
+form{
+   color:aqua;
+    background:red;
+    padding: 5px;
+    margin: 15px;
+    font: serif;
+}
+label{
+   color:aqua;
+    background:red;
+    padding: 5px;
+    margin: 15px;
+    font: serif;
+}
+input{
+   color:aqua;
+    background:red;
+    padding: 5px;
+    margin: 15px;
+    font: serif;
+}
+option{
+   color:aqua;
+    background:red;
+    padding: 5px;
+    margin: 15px;
+    font: serif;
+}
+.games{
+   color:aqua;
+    background:red;
+    padding: 5px;
+    margin: 15px;
+    font: serif;
+}
+.dogs{
+   color:aqua;
+    background:red;
+    padding: 5px;
+    margin: 15px;
+    font: serif;
+}
+.bio{
+   color:aqua;
+    background:red;
+    padding: 5px;
+    margin: 15px;
+    font: serif;
+}
+.wacky{
+   color:aqua;
+    background:red;
+    padding: 5px;
+    margin: 15px;
+    font: serif;
+}
+#main{
+   color:aqua;
+    background:red;
+    padding: 5px;
+    margin: 15px;
+    font: serif;
+}
+#talk{
+   color:aqua;
+    background:red;
+    padding: 5px;
+    margin: 15px;
+    font: serif;
+}
+#me{
+   color:aqua;
+    background:red;
+    padding: 5px;
+    margin: 15px;
+    font: serif;
 }
