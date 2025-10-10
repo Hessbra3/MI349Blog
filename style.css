@@ -1,6 +1,6 @@
 h1 {
     color:aqua
-    background-color:red
+    background:red
     padding: 5px
     margin: 15px
 }
@@ -22,4 +22,3 @@ ul {
 li {
     color:aqua
 }
-.
