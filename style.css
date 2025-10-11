@@ -144,3 +144,10 @@ option{
   overflow: hidden;
   background-color: #333;
 }
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 50%;
+}
