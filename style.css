@@ -150,6 +150,12 @@ option{
 }
 
 .column {
-  flex: 50%;
+  flex: 10%;
   color:darkorchid;
+}
+.floatright {
+float: right;
+width: 100px;
+margin: 0 0 10px 10px;
+padding: 10px;
 }
