@@ -138,3 +138,9 @@ option{
     margin: 15px;
     font: comic;
 }
+#navbar {
+  position: sticky;
+  top: 0;
+  overflow: hidden;
+  background-color: #333;
+}
