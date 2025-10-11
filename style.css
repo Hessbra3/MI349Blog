@@ -146,8 +146,10 @@ option{
 }
 .row {
   display: flex;
+  color:chartreuse;
 }
 
 .column {
   flex: 50%;
+  color:darkorchid;
 }
