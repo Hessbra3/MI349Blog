@@ -159,3 +159,70 @@ width: 100px;
 margin: 0 0 10px 10px;
 padding: 10px;
 }
+@media screen and (max-width: 768px) {
+  body {
+    background-color: lightgreen;
+
+  }
+  h1 {
+    color:pink;
+   background:black;
+    padding: 0px;
+    margin: 5px;
+    font: serif;
+}
+h2{
+      color:palevioletred;
+  background:black;
+    padding: 0px;
+    margin: 5px;
+    font: serif;
+}
+header{
+   color:red;
+     background:black;
+    padding: 0px;
+    margin: 5px;
+    font: serif;
+}
+section {
+   color:cyan;
+     background:black;
+     padding: 0px;
+    margin: 5px;
+    font: serif;
+}
+}
+@media screen and (min-width: 480px) {
+  body {
+    background-color: blue;
+  }
+  h1 {
+    color:pink;
+   background:orange;
+    padding: 0px;
+    margin: 0px;
+    font: serif;
+}
+h2{
+      color:palevioletred;
+   background:orange;
+    padding: 0px;
+    margin: 0px;
+    font: serif;
+}
+header{
+   color:red;
+   background:orange;
+    padding: 0px;
+    margin: 0px;
+    font: serif;
+}
+section {
+   color:cyan;
+   background:orange;
+    padding: 0px;
+    margin: 0px;
+    font: serif;
+}
+}
